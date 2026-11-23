@@ -1,1 +1,15 @@
+
+# Entorno virtual
+venv/
+.venv/
+
+# Credenciales de Banxico
 .streamlit/secrets.toml
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Copia de seguridad local
+dashboard_banxico_original.py
+
